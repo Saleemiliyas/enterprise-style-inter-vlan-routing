@@ -22,4 +22,10 @@ This project demonstrates inter-VLAN routing in an enterprise-style network topo
 - Cisco Packet Tracer
 
 ## Outcome
-This lab demonstrates foundational networking skills relevant to entry-level Network Support and NOC roles.
+
+This project demonstrates how enterprise networks use VLANs to segment users and apply Layer 3 routing to control communication between them. It also shows how access control policies can be enforced to restrict guest traffic while protecting internal resources. The lab reflects real-world networking practices relevant to entry-level Network Support and NOC roles.
+
+
+![Network Topology](screenshots/topology.png)
+![VLAN Configuration](screenshots/vlan-config.png)
+![Guest VLAN Access Restricted](screenshots/guest-access-blocked.png)
